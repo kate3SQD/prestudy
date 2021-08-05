@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3rd SQD PreStudy</title>
+    <link>//kate3SQD.github.io/prestudy/</link>
+    <description>Recent content on 3rd SQD PreStudy</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="//kate3SQD.github.io/prestudy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Module 1</title>
+      <link>//kate3SQD.github.io/prestudy/modules/mod1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//kate3SQD.github.io/prestudy/modules/mod1/</guid>
+      <description>This module covers the role of a personal trainer, communication &amp;amp; relationship building, and motivation &amp;amp; behavior change.</description>
+    </item>
+    
+    <item>
+      <title>Module 2</title>
+      <link>//kate3SQD.github.io/prestudy/modules/mod2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//kate3SQD.github.io/prestudy/modules/mod2/</guid>
+      <description>This module covers the exercise sciences including anatomy, kinesiology, biomechanics, and exercise physiology.</description>
+    </item>
+    
+    <item>
+      <title>Module 3</title>
+      <link>//kate3SQD.github.io/prestudy/modules/mod3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//kate3SQD.github.io/prestudy/modules/mod3/</guid>
+      <description>This module covers the six essential nutrients, the Dietary Guidelines for Americans, the nutrition facts label, and weight management.</description>
+    </item>
+    
+    <item>
+      <title>Module 4</title>
+      <link>//kate3SQD.github.io/prestudy/modules/mod4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//kate3SQD.github.io/prestudy/modules/mod4/</guid>
+      <description>This module covers preparticipation screening, health screening, postural analysis, and fitness assessments.</description>
+    </item>
+    
+    <item>
+      <title>Module 5</title>
+      <link>//kate3SQD.github.io/prestudy/modules/mod5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//kate3SQD.github.io/prestudy/modules/mod5/</guid>
+      <description>This module covers physical activity &amp;amp; principles of exercise, cardiorespiratory programming, resistance training program design, and flexibility training.</description>
+    </item>
+    
+    <item>
+      <title>Module 6</title>
+      <link>//kate3SQD.github.io/prestudy/modules/mod6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//kate3SQD.github.io/prestudy/modules/mod6/</guid>
+      <description>This module covers exercise considerations for special populations, medical conditions, injury management &amp;amp; emergency response, and legal considerations.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
